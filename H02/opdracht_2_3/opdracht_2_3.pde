@@ -1,9 +1,8 @@
 size(600, 600);
-background(255, 255, 255);
-
-fill(0, 0, 0);
-text("Mijn Voornaam is Stefan", 200, 250);
-fill(0, 0, 0);
-text("Mijn achternaam is van Beek", 200, 300);
-fill(0, 0, 0);
-text("Een van mijn hobby's is sporten", 200, 350);
+background(0, 150, 0);
+fill(0, 0, 255);
+text("Stefan", 100, 300);
+fill(0, 0, 255);
+text("van Beek", 275, 300);
+fill(0, 0, 255);
+text("Sporten", 450, 300);
