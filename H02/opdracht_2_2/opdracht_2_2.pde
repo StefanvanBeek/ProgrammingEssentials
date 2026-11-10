@@ -1,4 +1,6 @@
 size(500, 500);
-text("links", 100, 225);
-text("midden", 225, 225);
-text("rechts", 350, 225);
+
+fill(0, 0, 0);
+text("Midden boven", 225, 50);
+text("Links onder", 50, 450);
+text("Rechts midden", 350, 250);
